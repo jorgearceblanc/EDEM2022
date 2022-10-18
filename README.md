@@ -1,3 +1,3 @@
 # EDEM2022
 Jorge Arce
-Clase de Git
+Aquí se encuentran los ejercicios realizados durante el curso.
